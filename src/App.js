@@ -1,8 +1,7 @@
-import React from 'react'
-import navbar from "./components/nabvar.js"
+import React from "react";
 
-export const App = () => {
-  return (
-    <navbar/>
-  )
-}
+const App = () => {
+  return <h1>Hola asda</h1>;
+};
+
+export default App;
