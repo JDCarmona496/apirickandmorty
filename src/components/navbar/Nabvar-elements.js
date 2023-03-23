@@ -2,6 +2,7 @@ import styled from "styled-components";
 
 export const NavContainer = styled.nav`
   img {
+    //asdjnaosbund
     width: auto;
     height: 70px;
     margin-left: 5rem;
