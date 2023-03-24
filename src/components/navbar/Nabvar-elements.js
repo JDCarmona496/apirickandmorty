@@ -8,6 +8,7 @@ export const NavContainer = styled.nav`
     margin-left: 5rem;
     margin-top: .2rem; 
     margin-bottom: .2rem; 
+
   }
 
   padding .4rem;
@@ -22,7 +23,7 @@ export const NavContainer = styled.nav`
     margin-right: 1rem;
     font-family: Marvel;
     font-size: 25px;
-
+    font-family: Marvel;
   }
   .rectangle {
     display: flex;
